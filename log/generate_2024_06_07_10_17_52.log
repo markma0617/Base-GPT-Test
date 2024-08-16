@@ -1,0 +1,5 @@
+06/07/2024 10:17:52 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 0 using pynguin with refined_cov_assert prompt type and save to ./result
+06/07/2024 10:17:52 - INFO - __main__ - llm:pynguin
+06/07/2024 10:17:52 - INFO - __main__ - HumanEval_num:0
+06/07/2024 10:17:52 - INFO - __main__ - pynguin execution for num:0
+06/07/2024 10:17:52 - INFO - __main__ - cmd:pynguin --project-path ./result/generate/HumanEval/pynguin --output-path ./result/generate/HumanEval/pynguin--module-name code_0

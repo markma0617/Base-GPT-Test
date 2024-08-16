@@ -1,0 +1,1 @@
+from code_40 import triples_sum_to_zero

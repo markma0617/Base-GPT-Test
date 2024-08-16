@@ -1,0 +1,42 @@
+06/07/2024 10:15:39 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using pynguin with refined_cov_assert prompt type and save to ./result
+06/07/2024 10:15:39 - INFO - __main__ - llm:pynguin
+06/07/2024 10:15:39 - INFO - __main__ - HumanEval_num:0
+06/07/2024 10:15:39 - INFO - __main__ - HumanEval_num:1
+06/07/2024 10:15:39 - INFO - __main__ - HumanEval_num:2
+06/07/2024 10:15:39 - INFO - __main__ - pynguin execution for num:2
+06/07/2024 10:15:39 - INFO - __main__ - HumanEval_num:3
+06/07/2024 10:15:39 - INFO - __main__ - pynguin execution for num:3
+06/07/2024 10:15:40 - INFO - __main__ - HumanEval_num:4
+06/07/2024 10:15:40 - INFO - __main__ - pynguin execution for num:4
+06/07/2024 10:15:41 - INFO - __main__ - HumanEval_num:5
+06/07/2024 10:15:41 - INFO - __main__ - pynguin execution for num:5
+06/07/2024 10:15:42 - INFO - __main__ - HumanEval_num:6
+06/07/2024 10:15:42 - INFO - __main__ - pynguin execution for num:6
+06/07/2024 10:15:43 - INFO - __main__ - HumanEval_num:7
+06/07/2024 10:15:43 - INFO - __main__ - pynguin execution for num:7
+06/07/2024 10:15:43 - INFO - __main__ - HumanEval_num:8
+06/07/2024 10:15:43 - INFO - __main__ - pynguin execution for num:8
+06/07/2024 10:15:43 - INFO - __main__ - HumanEval_num:9
+06/07/2024 10:15:43 - INFO - __main__ - pynguin execution for num:9
+06/07/2024 10:15:43 - INFO - __main__ - HumanEval_num:10
+06/07/2024 10:15:43 - INFO - __main__ - pynguin execution for num:10
+06/07/2024 10:15:43 - INFO - __main__ - HumanEval_num:11
+06/07/2024 10:15:43 - INFO - __main__ - pynguin execution for num:11
+06/07/2024 10:15:44 - INFO - __main__ - HumanEval_num:12
+06/07/2024 10:15:44 - INFO - __main__ - pynguin execution for num:12
+06/07/2024 10:15:44 - INFO - __main__ - HumanEval_num:13
+06/07/2024 10:15:44 - INFO - __main__ - pynguin execution for num:13
+06/07/2024 10:15:44 - INFO - __main__ - HumanEval_num:14
+06/07/2024 10:15:44 - INFO - __main__ - pynguin execution for num:14
+06/07/2024 10:15:44 - INFO - __main__ - HumanEval_num:15
+06/07/2024 10:15:44 - INFO - __main__ - pynguin execution for num:15
+06/07/2024 10:15:44 - INFO - __main__ - HumanEval_num:16
+06/07/2024 10:15:44 - INFO - __main__ - pynguin execution for num:16
+06/07/2024 10:15:45 - INFO - __main__ - HumanEval_num:17
+06/07/2024 10:15:45 - INFO - __main__ - pynguin execution for num:17
+06/07/2024 10:15:45 - INFO - __main__ - HumanEval_num:18
+06/07/2024 10:15:45 - INFO - __main__ - pynguin execution for num:18
+06/07/2024 10:15:45 - INFO - __main__ - HumanEval_num:19
+06/07/2024 10:15:45 - INFO - __main__ - pynguin execution for num:19
+06/07/2024 10:15:45 - INFO - __main__ - HumanEval_num:20
+06/07/2024 10:15:45 - INFO - __main__ - pynguin execution for num:20

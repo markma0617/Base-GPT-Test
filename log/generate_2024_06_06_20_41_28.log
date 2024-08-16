@@ -1,0 +1,85 @@
+06/06/2024 20:41:28 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using qwen_plus with refined_cov prompt type and save to ./result/HumanEval/generate
+06/06/2024 20:41:28 - INFO - __main__ - llm:qwen_plus
+06/06/2024 20:41:28 - INFO - __main__ - HumanEval_num:0
+06/06/2024 20:41:39 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:41:39 - INFO - __main__ - HumanEval_num:1
+06/06/2024 20:41:45 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:41:45 - INFO - __main__ - HumanEval_num:2
+06/06/2024 20:41:49 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:41:49 - INFO - __main__ - HumanEval_num:3
+06/06/2024 20:41:54 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:41:54 - INFO - __main__ - HumanEval_num:4
+06/06/2024 20:42:01 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:01 - INFO - __main__ - HumanEval_num:5
+06/06/2024 20:42:12 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:12 - INFO - __main__ - HumanEval_num:6
+06/06/2024 20:42:19 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:19 - INFO - __main__ - HumanEval_num:7
+06/06/2024 20:42:24 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:24 - INFO - __main__ - HumanEval_num:8
+06/06/2024 20:42:29 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:29 - INFO - __main__ - HumanEval_num:9
+06/06/2024 20:42:37 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:37 - INFO - __main__ - HumanEval_num:10
+06/06/2024 20:42:46 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:46 - INFO - __main__ - HumanEval_num:11
+06/06/2024 20:42:50 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:50 - INFO - __main__ - HumanEval_num:12
+06/06/2024 20:42:54 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:42:54 - INFO - __main__ - HumanEval_num:13
+06/06/2024 20:43:00 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:00 - INFO - __main__ - HumanEval_num:14
+06/06/2024 20:43:03 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:03 - INFO - __main__ - HumanEval_num:15
+06/06/2024 20:43:10 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:10 - INFO - __main__ - HumanEval_num:16
+06/06/2024 20:43:17 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:17 - INFO - __main__ - HumanEval_num:17
+06/06/2024 20:43:26 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:26 - INFO - __main__ - HumanEval_num:18
+06/06/2024 20:43:32 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:32 - INFO - __main__ - HumanEval_num:19
+06/06/2024 20:43:37 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:37 - INFO - __main__ - HumanEval_num:20
+06/06/2024 20:43:49 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:49 - INFO - __main__ - HumanEval_num:21
+06/06/2024 20:43:59 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:43:59 - INFO - __main__ - HumanEval_num:22
+06/06/2024 20:44:05 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:05 - INFO - __main__ - HumanEval_num:23
+06/06/2024 20:44:08 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:08 - INFO - __main__ - HumanEval_num:24
+06/06/2024 20:44:12 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:12 - INFO - __main__ - HumanEval_num:25
+06/06/2024 20:44:22 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:22 - INFO - __main__ - HumanEval_num:26
+06/06/2024 20:44:32 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:32 - INFO - __main__ - HumanEval_num:27
+06/06/2024 20:44:35 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:35 - INFO - __main__ - HumanEval_num:28
+06/06/2024 20:44:38 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:38 - INFO - __main__ - HumanEval_num:29
+06/06/2024 20:44:43 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:43 - INFO - __main__ - HumanEval_num:30
+06/06/2024 20:44:50 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:50 - INFO - __main__ - HumanEval_num:31
+06/06/2024 20:44:55 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:44:55 - INFO - __main__ - HumanEval_num:32
+06/06/2024 20:45:01 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:01 - INFO - __main__ - HumanEval_num:33
+06/06/2024 20:45:09 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:09 - INFO - __main__ - HumanEval_num:34
+06/06/2024 20:45:15 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:15 - INFO - __main__ - HumanEval_num:35
+06/06/2024 20:45:21 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:21 - INFO - __main__ - HumanEval_num:36
+06/06/2024 20:45:25 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:25 - INFO - __main__ - HumanEval_num:37
+06/06/2024 20:45:33 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:33 - INFO - __main__ - HumanEval_num:38
+06/06/2024 20:45:38 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:38 - INFO - __main__ - HumanEval_num:39
+06/06/2024 20:45:44 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:44 - INFO - __main__ - HumanEval_num:40
+06/06/2024 20:45:56 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 20:45:56 - INFO - __main__ - HumanEval_num:41

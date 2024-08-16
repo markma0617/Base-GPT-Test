@@ -1,0 +1,14 @@
+06/05/2024 23:29:57 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using gpt-3.5 with few_shot prompt type and save to ./result/HumanEval/generate
+06/05/2024 23:29:57 - INFO - __main__ - HumanEval_num:0
+06/05/2024 23:30:03 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/05/2024 23:30:03 - INFO - __main__ - HumanEval_num:1
+06/05/2024 23:30:06 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/05/2024 23:30:06 - INFO - __main__ - HumanEval_num:2
+06/05/2024 23:30:09 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/05/2024 23:30:09 - INFO - __main__ - HumanEval_num:3
+06/05/2024 23:30:11 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/05/2024 23:30:11 - INFO - __main__ - HumanEval_num:4
+06/05/2024 23:30:15 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/05/2024 23:30:15 - INFO - __main__ - HumanEval_num:5
+06/05/2024 23:30:18 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/05/2024 23:30:18 - INFO - __main__ - HumanEval_num:6

@@ -1,0 +1,6 @@
+from code_111 import histogram
+
+def test():
+    assert histogram('a b c') == {'a': 1, 'b': 1, 'c': 1}
+    assert histogram('a b b a') == {'a': 2, 'b': 2}
+    assert histogram('a b c a b') == {'a': 2, 'b': 2}

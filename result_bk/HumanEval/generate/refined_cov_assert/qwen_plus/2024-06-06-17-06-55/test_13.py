@@ -1,0 +1,1 @@
+from code_13 import greatest_common_divisor

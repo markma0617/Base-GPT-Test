@@ -1,0 +1,3 @@
+06/06/2024 15:06:18 - INFO - __main__ - Start generate test cases for HumanEval from 94 to 94 using gpt-3.5 with refined prompt type and save to ./result/HumanEval/generate
+06/06/2024 15:06:18 - INFO - __main__ - HumanEval_num:94
+06/06/2024 15:06:21 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"

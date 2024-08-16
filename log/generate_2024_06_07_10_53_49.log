@@ -1,0 +1,15 @@
+06/07/2024 10:53:49 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 0 using qwen_plus with refined_cov_assert prompt type and save to ./result
+06/07/2024 10:53:49 - INFO - __main__ - llm:qwen_plus
+06/07/2024 10:53:49 - INFO - __main__ - HumanEval_num:0
+06/07/2024 10:54:14 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+06/07/2024 10:54:14 - INFO - __main__ - test:data
+generate.py
+generate.sh
+log
+__pycache__
+pynguin-report
+result
+result_bk
+test
+utils.py
+

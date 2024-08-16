@@ -1,0 +1,4 @@
+06/06/2024 17:07:55 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using qwen_plus with refined_cov_assert prompt type and save to ./result/HumanEval/generate
+06/06/2024 17:07:55 - INFO - __main__ - llm:qwen_plus
+06/06/2024 17:07:55 - INFO - __main__ - HumanEval_num:0
+06/06/2024 17:07:56 - INFO - httpx - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 400 Bad Request"

@@ -1,0 +1,329 @@
+06/06/2024 15:27:06 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using gpt-3.5 with refined prompt type and save to ./result/HumanEval/generate
+06/06/2024 15:27:06 - INFO - __main__ - HumanEval_num:0
+06/06/2024 15:27:09 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:09 - INFO - __main__ - HumanEval_num:1
+06/06/2024 15:27:11 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:11 - INFO - __main__ - HumanEval_num:2
+06/06/2024 15:27:13 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:13 - INFO - __main__ - HumanEval_num:3
+06/06/2024 15:27:14 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:14 - INFO - __main__ - HumanEval_num:4
+06/06/2024 15:27:17 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:17 - INFO - __main__ - HumanEval_num:5
+06/06/2024 15:27:19 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:19 - INFO - __main__ - HumanEval_num:6
+06/06/2024 15:27:21 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:21 - INFO - __main__ - HumanEval_num:7
+06/06/2024 15:27:25 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:25 - INFO - __main__ - HumanEval_num:8
+06/06/2024 15:27:26 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:26 - INFO - __main__ - HumanEval_num:9
+06/06/2024 15:27:29 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:29 - INFO - __main__ - HumanEval_num:10
+06/06/2024 15:27:32 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:32 - INFO - __main__ - HumanEval_num:11
+06/06/2024 15:27:35 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:35 - INFO - __main__ - HumanEval_num:12
+06/06/2024 15:27:37 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:37 - INFO - __main__ - HumanEval_num:13
+06/06/2024 15:27:38 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:38 - INFO - __main__ - HumanEval_num:14
+06/06/2024 15:27:42 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:42 - INFO - __main__ - HumanEval_num:15
+06/06/2024 15:27:47 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:47 - INFO - __main__ - HumanEval_num:16
+06/06/2024 15:27:49 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:49 - INFO - __main__ - HumanEval_num:17
+06/06/2024 15:27:53 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:53 - INFO - __main__ - HumanEval_num:18
+06/06/2024 15:27:54 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:27:54 - INFO - __main__ - HumanEval_num:19
+06/06/2024 15:28:00 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:00 - INFO - __main__ - HumanEval_num:20
+06/06/2024 15:28:07 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:07 - INFO - __main__ - HumanEval_num:21
+06/06/2024 15:28:11 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:11 - INFO - __main__ - HumanEval_num:22
+06/06/2024 15:28:17 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:17 - INFO - __main__ - HumanEval_num:23
+06/06/2024 15:28:18 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:18 - INFO - __main__ - HumanEval_num:24
+06/06/2024 15:28:24 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:24 - INFO - __main__ - HumanEval_num:25
+06/06/2024 15:28:26 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:26 - INFO - __main__ - HumanEval_num:26
+06/06/2024 15:28:28 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:28 - INFO - __main__ - HumanEval_num:27
+06/06/2024 15:28:31 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:31 - INFO - __main__ - HumanEval_num:28
+06/06/2024 15:28:33 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:33 - INFO - __main__ - HumanEval_num:29
+06/06/2024 15:28:35 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:35 - INFO - __main__ - HumanEval_num:30
+06/06/2024 15:28:43 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:43 - INFO - __main__ - HumanEval_num:31
+06/06/2024 15:28:45 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:45 - INFO - __main__ - HumanEval_num:32
+06/06/2024 15:28:48 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:48 - INFO - __main__ - HumanEval_num:33
+06/06/2024 15:28:55 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:28:55 - INFO - __main__ - HumanEval_num:34
+06/06/2024 15:29:00 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:00 - INFO - __main__ - HumanEval_num:35
+06/06/2024 15:29:01 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:02 - INFO - __main__ - HumanEval_num:36
+06/06/2024 15:29:03 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:03 - INFO - __main__ - HumanEval_num:37
+06/06/2024 15:29:06 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:06 - INFO - __main__ - HumanEval_num:38
+06/06/2024 15:29:08 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:08 - INFO - __main__ - HumanEval_num:39
+06/06/2024 15:29:09 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:09 - INFO - __main__ - HumanEval_num:40
+06/06/2024 15:29:12 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:12 - INFO - __main__ - HumanEval_num:41
+06/06/2024 15:29:13 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:13 - INFO - __main__ - HumanEval_num:42
+06/06/2024 15:29:15 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:15 - INFO - __main__ - HumanEval_num:43
+06/06/2024 15:29:18 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:18 - INFO - __main__ - HumanEval_num:44
+06/06/2024 15:29:20 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:20 - INFO - __main__ - HumanEval_num:45
+06/06/2024 15:29:26 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:26 - INFO - __main__ - HumanEval_num:46
+06/06/2024 15:29:28 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:28 - INFO - __main__ - HumanEval_num:47
+06/06/2024 15:29:30 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:30 - INFO - __main__ - HumanEval_num:48
+06/06/2024 15:29:33 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:33 - INFO - __main__ - HumanEval_num:49
+06/06/2024 15:29:35 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:35 - INFO - __main__ - HumanEval_num:50
+06/06/2024 15:29:38 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:38 - INFO - __main__ - HumanEval_num:51
+06/06/2024 15:29:41 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:41 - INFO - __main__ - HumanEval_num:52
+06/06/2024 15:29:46 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:47 - INFO - __main__ - HumanEval_num:53
+06/06/2024 15:29:51 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:51 - INFO - __main__ - HumanEval_num:54
+06/06/2024 15:29:57 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:29:57 - INFO - __main__ - HumanEval_num:55
+06/06/2024 15:30:02 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:02 - INFO - __main__ - HumanEval_num:56
+06/06/2024 15:30:04 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:04 - INFO - __main__ - HumanEval_num:57
+06/06/2024 15:30:06 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:06 - INFO - __main__ - HumanEval_num:58
+06/06/2024 15:30:09 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:09 - INFO - __main__ - HumanEval_num:59
+06/06/2024 15:30:11 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:11 - INFO - __main__ - HumanEval_num:60
+06/06/2024 15:30:13 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:13 - INFO - __main__ - HumanEval_num:61
+06/06/2024 15:30:14 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:14 - INFO - __main__ - HumanEval_num:62
+06/06/2024 15:30:17 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:17 - INFO - __main__ - HumanEval_num:63
+06/06/2024 15:30:18 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:18 - INFO - __main__ - HumanEval_num:64
+06/06/2024 15:30:20 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:20 - INFO - __main__ - HumanEval_num:65
+06/06/2024 15:30:22 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:22 - INFO - __main__ - HumanEval_num:66
+06/06/2024 15:30:24 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:24 - INFO - __main__ - HumanEval_num:67
+06/06/2024 15:30:28 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:28 - INFO - __main__ - HumanEval_num:68
+06/06/2024 15:30:31 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:31 - INFO - __main__ - HumanEval_num:69
+06/06/2024 15:30:34 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:34 - INFO - __main__ - HumanEval_num:70
+06/06/2024 15:30:38 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:38 - INFO - __main__ - HumanEval_num:71
+06/06/2024 15:30:41 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:41 - INFO - __main__ - HumanEval_num:72
+06/06/2024 15:30:43 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:43 - INFO - __main__ - HumanEval_num:73
+06/06/2024 15:30:48 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:48 - INFO - __main__ - HumanEval_num:74
+06/06/2024 15:30:50 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:50 - INFO - __main__ - HumanEval_num:75
+06/06/2024 15:30:52 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:52 - INFO - __main__ - HumanEval_num:76
+06/06/2024 15:30:57 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:30:57 - INFO - __main__ - HumanEval_num:77
+06/06/2024 15:31:03 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:03 - INFO - __main__ - HumanEval_num:78
+06/06/2024 15:31:05 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:05 - INFO - __main__ - HumanEval_num:79
+06/06/2024 15:31:08 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:08 - INFO - __main__ - HumanEval_num:80
+06/06/2024 15:31:10 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:10 - INFO - __main__ - HumanEval_num:81
+06/06/2024 15:31:17 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:17 - INFO - __main__ - HumanEval_num:82
+06/06/2024 15:31:19 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:19 - INFO - __main__ - HumanEval_num:83
+06/06/2024 15:31:20 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:20 - INFO - __main__ - HumanEval_num:84
+06/06/2024 15:31:22 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:22 - INFO - __main__ - HumanEval_num:85
+06/06/2024 15:31:23 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:24 - INFO - __main__ - HumanEval_num:86
+06/06/2024 15:31:25 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:25 - INFO - __main__ - HumanEval_num:87
+06/06/2024 15:31:28 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:28 - INFO - __main__ - HumanEval_num:88
+06/06/2024 15:31:31 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:31 - INFO - __main__ - HumanEval_num:89
+06/06/2024 15:31:36 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:36 - INFO - __main__ - HumanEval_num:90
+06/06/2024 15:31:38 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:38 - INFO - __main__ - HumanEval_num:91
+06/06/2024 15:31:43 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:43 - INFO - __main__ - HumanEval_num:92
+06/06/2024 15:31:44 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:44 - INFO - __main__ - HumanEval_num:93
+06/06/2024 15:31:46 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:46 - INFO - __main__ - HumanEval_num:94
+06/06/2024 15:31:52 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:52 - INFO - __main__ - HumanEval_num:95
+06/06/2024 15:31:55 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:55 - INFO - __main__ - HumanEval_num:96
+06/06/2024 15:31:58 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:58 - INFO - __main__ - HumanEval_num:97
+06/06/2024 15:31:59 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:31:59 - INFO - __main__ - HumanEval_num:98
+06/06/2024 15:32:01 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:01 - INFO - __main__ - HumanEval_num:99
+06/06/2024 15:32:06 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:06 - INFO - __main__ - HumanEval_num:100
+06/06/2024 15:32:09 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:09 - INFO - __main__ - HumanEval_num:101
+06/06/2024 15:32:11 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:11 - INFO - __main__ - HumanEval_num:102
+06/06/2024 15:32:13 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:13 - INFO - __main__ - HumanEval_num:103
+06/06/2024 15:32:15 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:15 - INFO - __main__ - HumanEval_num:104
+06/06/2024 15:32:17 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:17 - INFO - __main__ - HumanEval_num:105
+06/06/2024 15:32:19 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:19 - INFO - __main__ - HumanEval_num:106
+06/06/2024 15:32:26 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:26 - INFO - __main__ - HumanEval_num:107
+06/06/2024 15:32:27 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:27 - INFO - __main__ - HumanEval_num:108
+06/06/2024 15:32:32 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:32 - INFO - __main__ - HumanEval_num:109
+06/06/2024 15:32:34 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:34 - INFO - __main__ - HumanEval_num:110
+06/06/2024 15:32:36 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:36 - INFO - __main__ - HumanEval_num:111
+06/06/2024 15:32:38 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:38 - INFO - __main__ - HumanEval_num:112
+06/06/2024 15:32:39 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:39 - INFO - __main__ - HumanEval_num:113
+06/06/2024 15:32:42 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:42 - INFO - __main__ - HumanEval_num:114
+06/06/2024 15:32:45 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:45 - INFO - __main__ - HumanEval_num:115
+06/06/2024 15:32:47 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:47 - INFO - __main__ - HumanEval_num:116
+06/06/2024 15:32:49 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:49 - INFO - __main__ - HumanEval_num:117
+06/06/2024 15:32:51 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:51 - INFO - __main__ - HumanEval_num:118
+06/06/2024 15:32:53 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:53 - INFO - __main__ - HumanEval_num:119
+06/06/2024 15:32:59 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:32:59 - INFO - __main__ - HumanEval_num:120
+06/06/2024 15:33:01 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:01 - INFO - __main__ - HumanEval_num:121
+06/06/2024 15:33:03 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:03 - INFO - __main__ - HumanEval_num:122
+06/06/2024 15:33:06 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:06 - INFO - __main__ - HumanEval_num:123
+06/06/2024 15:33:07 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:07 - INFO - __main__ - HumanEval_num:124
+06/06/2024 15:33:09 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:09 - INFO - __main__ - HumanEval_num:125
+06/06/2024 15:33:11 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:11 - INFO - __main__ - HumanEval_num:126
+06/06/2024 15:33:14 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:14 - INFO - __main__ - HumanEval_num:127
+06/06/2024 15:33:16 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:16 - INFO - __main__ - HumanEval_num:128
+06/06/2024 15:33:19 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:19 - INFO - __main__ - HumanEval_num:129
+06/06/2024 15:33:21 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:21 - INFO - __main__ - HumanEval_num:130
+06/06/2024 15:33:23 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:23 - INFO - __main__ - HumanEval_num:131
+06/06/2024 15:33:25 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:25 - INFO - __main__ - HumanEval_num:132
+06/06/2024 15:33:28 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:28 - INFO - __main__ - HumanEval_num:133
+06/06/2024 15:33:31 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:31 - INFO - __main__ - HumanEval_num:134
+06/06/2024 15:33:34 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:34 - INFO - __main__ - HumanEval_num:135
+06/06/2024 15:33:37 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:37 - INFO - __main__ - HumanEval_num:136
+06/06/2024 15:33:38 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:38 - INFO - __main__ - HumanEval_num:137
+06/06/2024 15:33:40 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:40 - INFO - __main__ - HumanEval_num:138
+06/06/2024 15:33:42 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:42 - INFO - __main__ - HumanEval_num:139
+06/06/2024 15:33:43 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:43 - INFO - __main__ - HumanEval_num:140
+06/06/2024 15:33:45 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:45 - INFO - __main__ - HumanEval_num:141
+06/06/2024 15:33:47 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:47 - INFO - __main__ - HumanEval_num:142
+06/06/2024 15:33:48 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:48 - INFO - __main__ - HumanEval_num:143
+06/06/2024 15:33:52 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:52 - INFO - __main__ - HumanEval_num:144
+06/06/2024 15:33:54 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:54 - INFO - __main__ - HumanEval_num:145
+06/06/2024 15:33:56 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:56 - INFO - __main__ - HumanEval_num:146
+06/06/2024 15:33:59 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:33:59 - INFO - __main__ - HumanEval_num:147
+06/06/2024 15:34:01 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:01 - INFO - __main__ - HumanEval_num:148
+06/06/2024 15:34:03 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:03 - INFO - __main__ - HumanEval_num:149
+06/06/2024 15:34:06 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:06 - INFO - __main__ - HumanEval_num:150
+06/06/2024 15:34:07 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:07 - INFO - __main__ - HumanEval_num:151
+06/06/2024 15:34:13 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:13 - INFO - __main__ - HumanEval_num:152
+06/06/2024 15:34:15 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:15 - INFO - __main__ - HumanEval_num:153
+06/06/2024 15:34:19 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:19 - INFO - __main__ - HumanEval_num:154
+06/06/2024 15:34:20 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:20 - INFO - __main__ - HumanEval_num:155
+06/06/2024 15:34:22 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:22 - INFO - __main__ - HumanEval_num:156
+06/06/2024 15:34:24 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:24 - INFO - __main__ - HumanEval_num:157
+06/06/2024 15:34:26 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:26 - INFO - __main__ - HumanEval_num:158
+06/06/2024 15:34:29 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:29 - INFO - __main__ - HumanEval_num:159
+06/06/2024 15:34:30 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:30 - INFO - __main__ - HumanEval_num:160
+06/06/2024 15:34:35 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:35 - INFO - __main__ - HumanEval_num:161
+06/06/2024 15:34:38 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:38 - INFO - __main__ - HumanEval_num:162
+06/06/2024 15:34:40 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/06/2024 15:34:40 - INFO - __main__ - HumanEval_num:163
+06/06/2024 15:34:42 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"

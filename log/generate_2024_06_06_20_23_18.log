@@ -1,0 +1,4 @@
+06/06/2024 20:23:18 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 0 using gpt-4o with refined_cov_assert prompt type and save to ./result/HumanEval/generate
+06/06/2024 20:23:18 - INFO - __main__ - llm:gpt-4o
+06/06/2024 20:23:18 - INFO - __main__ - HumanEval_num:0
+06/06/2024 20:23:27 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"

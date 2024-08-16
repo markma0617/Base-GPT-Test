@@ -1,0 +1,1 @@
+from code_59 import largest_prime_factor

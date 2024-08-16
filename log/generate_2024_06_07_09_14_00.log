@@ -1,0 +1,1 @@
+06/07/2024 09:14:00 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using qwen_plus with refined_cov_assert prompt type and save to ./result/HumanEval/generate

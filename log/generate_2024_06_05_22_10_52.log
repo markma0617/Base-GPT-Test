@@ -1,0 +1,4 @@
+06/05/2024 22:10:52 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 1 using gpt-3.5 with baseline prompt type and save to ./result/generate
+06/05/2024 22:10:52 - INFO - __main__ - HumanEval_num:0
+06/05/2024 22:10:57 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"
+06/05/2024 22:11:03 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 200 OK"

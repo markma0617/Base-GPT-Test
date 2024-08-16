@@ -1,0 +1,13 @@
+from code_138 import is_equal_to_sum_even
+
+def test():
+    assert is_equal_to_sum_even(4) == False
+    assert is_equal_to_sum_even(6) == False
+    assert is_equal_to_sum_even(8) == True
+    assert is_equal_to_sum_even(10) == True
+    assert is_equal_to_sum_even(12) == True
+    assert is_equal_to_sum_even(14) == False
+    assert is_equal_to_sum_even(20) == True
+    assert is_equal_to_sum_even(22) == False
+    assert is_equal_to_sum_even(30) == True
+    assert is_equal_to_sum_even(32) == True

@@ -1,0 +1,8 @@
+06/06/2024 20:38:57 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using qwen_plus with refined_cov prompt type and save to ./result/HumanEval/generate
+06/06/2024 20:38:57 - INFO - __main__ - llm:qwen_plus
+06/06/2024 20:38:57 - INFO - __main__ - HumanEval_num:0
+06/06/2024 20:38:58 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+06/06/2024 20:38:58 - INFO - openai._base_client - Retrying request to /chat/completions in 0.798993 seconds
+06/06/2024 20:38:59 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+06/06/2024 20:38:59 - INFO - openai._base_client - Retrying request to /chat/completions in 1.649054 seconds
+06/06/2024 20:39:01 - INFO - httpx - HTTP Request: POST https://openkey.cloud/v1/chat/completions "HTTP/1.1 503 Service Unavailable"

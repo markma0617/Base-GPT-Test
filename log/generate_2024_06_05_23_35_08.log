@@ -1,0 +1,2 @@
+06/05/2024 23:35:08 - INFO - __main__ - Start generate test cases for HumanEval from 0 to 163 using gpt-3.5 with baseline prompt type and save to ./result/HumanEval/generate
+06/05/2024 23:35:08 - INFO - __main__ - HumanEval_num:0

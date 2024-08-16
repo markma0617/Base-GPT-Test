@@ -1,0 +1,7 @@
+from code_101 import words_string
+
+def test():   
+    assert words_string("Hi, my name is John") == ["Hi", "my", "name", "is", "John"]
+    assert words_string("One, two, three, four, five, six") == ["One", "two", "three", "four", "five", "six"]
+    assert words_string("Lorem ipsum dolor sit amet") == ["Lorem", "ipsum", "dolor", "sit", "amet"]
+    assert words_string("Testing, the, function") == ["Testing", "the", "function"]
